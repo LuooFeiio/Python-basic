@@ -1,0 +1,1 @@
+f = open('D:/雒飞/abc.txt', 'r', encoding = "UTF-8") # 其实不存在这个文件，因此程序报错

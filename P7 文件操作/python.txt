@@ -1,0 +1,5 @@
+Hello world!
+This is python.
+Nice to meet you!
+Ha.
+追加写入测试！
